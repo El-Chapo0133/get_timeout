@@ -1,4 +1,4 @@
-class Ip() {
+class Ip {
 	get Ip() {
 		return "172.20.20.107"
 	}

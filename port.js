@@ -1,4 +1,4 @@
-class Port() {
+class Port {
 	get Port() {
 		return 8080
 	}
